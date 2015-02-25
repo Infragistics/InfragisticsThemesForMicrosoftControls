@@ -1,4 +1,4 @@
-# Infragistics Themes For MicrosoftControls
+# Infragistics Themes For Microsoft Controls
 Free Infragistics themes for WPF and Silverlight Microsoft controls.  This includes the Infragistics IG Theme, Metro Theme, Metro Dark Theme, Office 2010 Blue Theme, and Office 2013 Theme.
 
 Note: The Office2013 Theme is not avialable for Silverlight
