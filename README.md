@@ -3,6 +3,8 @@ Free Infragistics themes for WPF and Silverlight Microsoft controls.  This inclu
 
 Note: The Office2013 Theme is not avialable for Silverlight
 
+A big thank you to Infragistics (http://www.infragistics.com) for providing these themes to the community.
+
 Install using NuGet:
 
 WPF:
