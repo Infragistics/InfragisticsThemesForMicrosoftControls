@@ -5,7 +5,7 @@ Note: The Office2013 Theme is not avialable for Silverlight
 
 A big thank you to Infragistics (http://www.infragistics.com) for providing these themes to the community.
 
-Install using NuGet:
+# Install using NuGet:
 
 WPF:
 
